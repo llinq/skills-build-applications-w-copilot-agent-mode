@@ -19,11 +19,11 @@ function App() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link href="#users">Usuários</Nav.Link>
-                <Nav.Link href="#teams">Times</Nav.Link>
-                <Nav.Link href="#activities">Atividades</Nav.Link>
-                <Nav.Link href="#leaderboard">Leaderboard</Nav.Link>
-                <Nav.Link href="#workouts">Workouts</Nav.Link>
+                <Nav.Link href="/users">Usuários</Nav.Link>
+                <Nav.Link href="/teams">Times</Nav.Link>
+                <Nav.Link href="/activities">Atividades</Nav.Link>
+                <Nav.Link href="/leaderboard">Leaderboard</Nav.Link>
+                <Nav.Link href="/workouts">Workouts</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>
